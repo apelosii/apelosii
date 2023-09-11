@@ -1,0 +1,11 @@
+{
+  "name": "apelosii",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I’m @apelosii\r - 👀 I’m interested in coding\r - 🌱 I’m currently learning Javascript, HTML, CSS, Oracle SQL, C++\r - 📫 Reach me at @Syrup#1892 on discord or @aidan_pelosi on instagram,",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidan Pelosi",
+  "license": "ISC"
+}
